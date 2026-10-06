@@ -23,7 +23,3 @@ Built a tool that automatically generates timesheets for every employee, replaci
 
 Worked on making memory usage more efficient as part of a computer architecture project.
 
-### Remote Experiments with Mobile Robots
-*vhb course · University of Würzburg*
-
-Running remote experiments on real mobile robots, covering kinematics, control and path planning.
