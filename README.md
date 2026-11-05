@@ -14,7 +14,9 @@ Built an app for Lebenshilfe München, a non-profit supporting people with disab
 ### Timesheet Automation Tool
 *Cadyou*
 
-Built a tool that automatically generates timesheets for every employee, replacing the manual process of creating them by hand in Excel.
+Replaced the manual transfer of employee working hours with a
+pipeline that extracts the data from PDF documents into structured Excel sheets, making the company's time
+tracking faster and more reliable.
 
 *Code is private (company project).*
 
